@@ -19,7 +19,6 @@ Este proyecto es un CRUD de usuarios desarrollado en Go, siguiendo los principio
 ## 📦 Instalación
 
 ```bash
-git clone https://github.com/tu-usuario/crud_golang.git
 cd crud_golang
 go mod tidy
 ```
